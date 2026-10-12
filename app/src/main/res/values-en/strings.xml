@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alcohol or Gasoline</string>
+    <string name="alcool">Alcohol</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="preencha_os_precos_dos_combustiveis">Fill the prices of the fuels correctly</string>
+    <string name="alcool_ou_gasolina">Alcohol or Gasoline?</string>
+    <string name="nome_do_posto_opcional">Gas Station\'s Name (Optional)</string>
+    <string name="preco_do_alcool">Alcohol Price (R$)</string>
+    <string name="preco_da_gasolina">Gasoline Price (R$)</string>
+    <string name="porcentagem_do_alcool">Alcohol Percentage:</string>
+    <string name="calcular">Calculate</string>
+    <string name="ver_lista_de_postos">See the list of gas stations</string>
+    <string name="adicionar_posto">Add Gas Station</string>
+    <string name="editar_posto">Edit Gas Station</string>
+    <string name="nome_do_posto">Gas Station\'s Name</string>
+    <string name="localizacao_do_posto">Gas Station\'s Location</string>
+    <string name="usar_minha_localizacao_atual">📍Use my current location</string>
+    <string name="salvar">Save</string>
+    <string name="atualizar">Update</string>
+    <string name="porfavor_preencha_todos_os_campos_corretamente">Please, fill in all the fields correctly.</string>
+    <string name="localizacao">Location</string>
+    <string name="para_preencher_o_endereco_automaticamente">To fill in the address, you need to activate the location permission. Please, activate it in the application settings.</string>
+    <string name="configuracoes">Configurations</string>
+    <string name="cancelar">Cancel</string>
+    <string name="lista_postos">Gas Stations List</string>
+    <string name="nenhum_posto_cadastrado">No gas stations registered</string>
+    <string name="preco_do_alcool_formatado">Alcohol Price: R$ %.2f</string>
+    <string name="preco_da_gasolina_formatado">Gasoline Price: R$ %.2f</string>
+    <string name="detalhes_do_posto">Gas Station\'s Details</string>
+    <string name="posto_nao_encontrado">Gas Station not found</string>
+    <string name="cadastrado_em">Registered in: %s</string>
+    <string name="sem_endereco_cadastrado">No address registered</string>
+    <string name="confirmar_exclusao">Confirm exclusion</string>
+    <string name="voce_realmente_deseja_excluir_o_posto">Do you really want to delete the gas station? It cannot be recovered.</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+</resources>

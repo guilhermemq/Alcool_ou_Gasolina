@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="alcool">Álcool</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="preencha_os_precos_dos_combustiveis">Preencha os preços dos combustíveis corretamente</string>
+    <string name="alcool_ou_gasolina">Álcool ou Gasolina?</string>
+    <string name="nome_do_posto_opcional">Nome do Posto (Opcional)</string>
+    <string name="preco_do_alcool">Preço do Álcool (R$)</string>
+    <string name="preco_da_gasolina">Preço da Gasolina (R$)</string>
+    <string name="porcentagem_do_alcool">Porcentagem do Álcool:</string>
+    <string name="calcular">Calcular</string>
+    <string name="ver_lista_de_postos">Ver lista de postos</string>
+    <string name="adicionar_posto">Adicionar Posto</string>
+    <string name="editar_posto">Editar posto</string>
+    <string name="nome_do_posto">Nome do Posto</string>
+    <string name="localizacao_do_posto">Localização do Posto</string>
+    <string name="usar_minha_localizacao_atual">📍Usar minha localização atual</string>
+    <string name="salvar">Salvar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="porfavor_preencha_todos_os_campos_corretamente">Por favor, preencha todos os campos corretamente.</string>
+    <string name="localizacao">Localização</string>
+    <string name="para_preencher_o_endereco_automaticamente">Para preencher o endereço, é necessário a permissão de localização. Por favor, ative-a nas configurações da aplicação.</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="lista_postos">Lista de Postos</string>
+    <string name="nenhum_posto_cadastrado">Nenhum posto cadastrado</string>
+    <string name="preco_do_alcool_formatado">Preço do Álcool: R$ %.2f</string>
+    <string name="preco_da_gasolina_formatado">Preço da Gasolina: R$ %.2f</string>
+    <string name="detalhes_do_posto">Detalhes do Posto</string>
+    <string name="posto_nao_encontrado">Posto não encontrado</string>
+    <string name="cadastrado_em">Cadastrado em: %s</string>
+    <string name="sem_endereco_cadastrado">Sem endereço cadastrado</string>
+    <string name="confirmar_exclusao">Confirmar exclusão</string>
+    <string name="voce_realmente_deseja_excluir_o_posto">Você realmente deseja excluir o posto? Ele não poderá ser recuperado.</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
